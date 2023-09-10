@@ -16,13 +16,13 @@ const options = [
     label: 'Support',
     icon: 'support',
     type: 'linking',
-    url: 'mailto:am.kumar1293@gmail.com?subject=Need Assitance',
+    url: 'mailto:nguyenhugn17072001@gmail.com?subject=Need Assitance',
   },
   {
     label: 'Feedback',
     icon: 'note',
     type: 'linking',
-    url: 'mailto:am.kumar1293@gmail.com?subject=Suggestions and Feedback for the App',
+    url: 'mailto:nguyenhung17072001@gmail.com?subject=Suggestions and Feedback for the App',
   },
   {
     label: 'Close',

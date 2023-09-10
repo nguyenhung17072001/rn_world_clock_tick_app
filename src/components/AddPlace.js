@@ -200,6 +200,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     marginLeft: 10,
     width: Dimensions.get('window').width - widthConstantModal,
+    color: "black",
   },
   item: {
     size: 20,
